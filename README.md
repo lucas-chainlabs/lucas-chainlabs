@@ -1,16 +1,21 @@
-## Hi there 👋
+Blockchain engineer based in Paris, France, focused on building secure and scalable decentralized systems. My work revolves around blockchain infrastructure, smart contract development, and open-source crypto tools designed for modern decentralized applications.
 
-<!--
-**lucas-chainlabs/lucas-chainlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Blockchain+Engineer;Smart+Contract+Developer;DeFi+Infrastructure+Builder;Crypto+Security+Researcher;Open+Source+Contributor" />
+</p>
 
-Here are some ideas to get you started:
+I spend most of my time researching Ethereum architecture, developing Solidity smart contracts, and building automation systems for decentralized finance platforms. I am particularly interested in DeFi protocol design, blockchain analytics, wallet security systems, and cross-chain transaction monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Badshah+Afridi;Smart+Contract+Developer;DeFi+Infrastructure+Builder;Crypto+Security+Researcher;Open+Source+Contributor" />
+</p>
+
+Over the past few years I have contributed to multiple blockchain experiments and open-source crypto utilities including gas monitoring tools, DeFi yield automation scripts, NFT metadata generators, and portfolio analytics platforms. My goal is to design efficient decentralized infrastructure that improves transparency and trust in blockchain ecosystems.
+
+
+
+I enjoy collaborating with developers across the Web3 ecosystem and continuously exploring innovations around Ethereum Layer-2 scaling, smart contract security, and decentralized data systems. Open source development is a key part of my workflow, and I actively build tools that help developers understand and interact with blockchain networks more effectively.
+
+
+
+When I am not writing smart contracts or analyzing blockchain data, I am experimenting with new crypto protocols, studying distributed systems, and contributing to community discussions about the future of decentralized technologies.
