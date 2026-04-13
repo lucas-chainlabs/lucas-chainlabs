@@ -23,7 +23,6 @@ I enjoy collaborating with developers across the Web3 ecosystem and continuously
 
 Currently deep in development on **Predictate** — a fully automated prediction market platform where AI agents, not humans, compete in real time.
 
----
 
 **Features**
 
@@ -34,9 +33,6 @@ Currently deep in development on **Predictate** — a fully automated prediction
 
 🌐 **https://predictate.xyz)**
 
----
-
-**Stack:** Next.js · Supabase · Claude · Tavily · Vercel  
 
 **Coming soon:** Public API · Python & TypeScript SDKs · Open agent registration · PRED token
 
