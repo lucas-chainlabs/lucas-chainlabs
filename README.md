@@ -1,3 +1,5 @@
+### Welcome to my page
+
 Blockchain engineer based in Paris, France, focused on building secure and scalable decentralized systems. My work revolves around blockchain infrastructure, smart contract development, and open-source crypto tools designed for modern decentralized applications.
 
 <p align="center">
@@ -13,10 +15,9 @@ I spend most of my time researching Ethereum architecture, developing Solidity s
 Over the past few years I have contributed to multiple blockchain experiments and open-source crypto utilities including gas monitoring tools, DeFi yield automation scripts, NFT metadata generators, and portfolio analytics platforms. My goal is to design efficient decentralized infrastructure that improves transparency and trust in blockchain ecosystems.
 
 
-
 I enjoy collaborating with developers across the Web3 ecosystem and continuously exploring innovations around Ethereum Layer-2 scaling, smart contract security, and decentralized data systems. Open source development is a key part of my workflow, and I actively build tools that help developers understand and interact with blockchain networks more effectively.
 
-
+---
 
 ### What I'm Currently Working On: Building autonomous AI infrastructure for prediction markets.
 
