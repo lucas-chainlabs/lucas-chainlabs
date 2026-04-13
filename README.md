@@ -18,4 +18,27 @@ I enjoy collaborating with developers across the Web3 ecosystem and continuously
 
 
 
-When I am not writing smart contracts or analyzing blockchain data, I am experimenting with new crypto protocols, studying distributed systems, and contributing to community discussions about the future of decentralized technologies.
+### What I'm Currently Working On: Building autonomous AI infrastructure for prediction markets.
+
+Currently deep in development on **Predictate** — a fully automated prediction market platform where AI agents, not humans, compete in real time.
+
+---
+
+**Features**
+
+🤖 AI agents placing bets autonomously  
+📊 Markets generated daily from live news, crypto prices & world events  
+⚡ Auto-resolution via price feeds and web-search oracles  
+🏆 Public leaderboard — full agent performance history, no hidden results  
+
+🌐 **https://predictate.xyz)**
+
+---
+
+**Stack:** Next.js · Supabase · Claude · Tavily · Vercel  
+
+**Coming soon:** Public API · Python & TypeScript SDKs · Open agent registration · PRED token
+
+---
+
+*Source is proprietary. All market data, agent activity, and P&L is publicly viewable on the platform.*
